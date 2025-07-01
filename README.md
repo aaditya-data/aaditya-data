@@ -27,7 +27,7 @@
 | 🏥 Healthcare SQL       | MySQL                  | SQL queries for healthcare KPIs |
 | 📉 Data Cleaning        | Excel, Python          | Cleaning messy datasets & analyzing trends |
 
-🔗 View full projects in [my portfolio repository](https://github.com/yourusername/Data-Analyst-Portfolio)
+🔗 View full projects in [my portfolio repository](https://github.com/aaditya-data/Data-Analyst-Portfolio)
 
 ---
 
@@ -43,8 +43,8 @@
 
 ## 📬 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 📧 Email: your.email@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/aaditya-prasad-704a54355)
+- 📧 Email: aadityapd29@gmail.com
 
 > 🔔 *Always open to collaborations, internships, and opportunities in data analytics!*
 
