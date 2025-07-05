@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 BCA Student | Aspiring Data Analyst | Data Storyteller 📊 <br>
-  🔍 Exploring Python, SQL, Power BI & Machine Learning <br>
+  🔍 Exploring Excel, Python, SQL, Power BI & Machine Learning <br>
   🌍 Dreaming of UK 🇬🇧 & Germany 🇩🇪 for Data Science career
 </p>
 
