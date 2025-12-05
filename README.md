@@ -3,7 +3,7 @@
 <p align="center">
   🎓 BCA Student | Aspiring Data Analyst | Data Storyteller 📊 <br>
   🔍 Exploring Excel, Python, SQL, Power BI & Machine Learning <br>
-  🌍 Dreaming of UK 🇬🇧 & Germany 🇩🇪 for Data Analytics Career
+  🌍 My Goal Is Working As A Data Anlayst And Further Upgrading To Data Scientist
 </p>
 
 ---
