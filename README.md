@@ -21,7 +21,7 @@
 
 | Project Type | Tools Used | Description | Status |
 |--------------|------------|-------------|--------|
-| Excel Dashboard | Excel (PivotTables, PivotCharts, Slicers) | Built an interactive Superstore Sales Dashboard with KPIs, Monthly Sales Trend, Sales by Region, Profit by Sub-Category, and Top 10 Products. Includes slicers for Region, Category, Segment. | Completed |
+| Excel Dashboard | Excel | Built an interactive Superstore Sales Dashboard with KPIs, Monthly Sales Trend, Sales by Region, Profit by Sub-Category, and Top 10 Products. | Completed |
 | Excel Dashboard | Excel | Customer churn dashboard analyzing churn causes, retention trends, and customer behavior. | Pending |
 | Excel Dashboard | Excel | HR analytics dashboard tracking employee demographics, salaries, performance, and attrition. | Pending |
 | SQL Project | MySQL | E-commerce analytics: revenue trends, repeat purchase behavior, product performance, customer segmentation using SQL queries. | Pending |
@@ -35,8 +35,6 @@
 | Power BI Dashboard | Power BI (DAX, Power Query) | Sales & Profit dashboard with drill-through, KPIs, and interactive visuals. | Pending |
 | Power BI Dashboard | Power BI | HR Attrition dashboard showing reasons for employee exit, demographics, and team-level churn. | Pending |
 | Power BI Dashboard | Power BI | A finance dashboard showing revenue, expenses, profit, and key financial KPIs using interactive visuals. | Pending |
-| Tableau Dashboard | Tableau | Customer behavior and sales demographics dashboard using visual analytics. | Pending |
-
 
 🔗 View full projects in [my portfolio repository](https://github.com/aaditya-data/Data-Analyst-Portfolio)
 
