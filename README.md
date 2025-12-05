@@ -34,7 +34,7 @@
 | Python Machine Learning | Python (Scikit-Learn) | Customer segmentation model using K-Means clustering to identify buyer groups. | Pending |
 | Power BI Dashboard | Power BI (DAX, Power Query) | Sales & Profit dashboard with drill-through, KPIs, and interactive visuals. | Pending |
 | Power BI Dashboard | Power BI | HR Attrition dashboard showing reasons for employee exit, demographics, and team-level churn. | Pending |
-| Tableau Dashboard | Tableau | Superstore dashboard with interactive maps, category breakdowns, and KPIs. | Pending |
+| Power BI Dashboard | Power BI | A finance dashboard showing revenue, expenses, profit, and key financial KPIs using interactive visuals. | Pending |
 | Tableau Dashboard | Tableau | Customer behavior and sales demographics dashboard using visual analytics. | Pending |
 
 
