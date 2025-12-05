@@ -19,13 +19,24 @@
 
 ## 📂 My Data Analytics Portfolio
 
-| Project Type           | Tools Used             | Description |
-|------------------------|------------------------|-------------|
-| 🚲 Cyclistic Case Study | Excel, SQL, R          | Google capstone on customer behavior |
-| 🎬 Netflix EDA          | Python (Pandas, Matplotlib) | Exploratory data analysis on Netflix titles |
-| 📈 Sales Dashboard      | Power BI               | Interactive sales performance dashboard |
-| 🏥 Healthcare SQL       | MySQL                  | SQL queries for healthcare KPIs |
-| 📉 Data Cleaning        | Excel, Python          | Cleaning messy datasets & analyzing trends |
+| Project Type | Tools Used | Description | Status |
+|--------------|------------|-------------|--------|
+| Excel Dashboard | Excel (PivotTables, PivotCharts, Slicers) | Built an interactive Superstore Sales Dashboard with KPIs, Monthly Sales Trend, Sales by Region, Profit by Sub-Category, and Top 10 Products. Includes slicers for Region, Category, Segment. | Completed |
+| Excel Dashboard | Excel | Customer churn dashboard analyzing churn causes, retention trends, and customer behavior. | Pending |
+| Excel Dashboard | Excel | HR analytics dashboard tracking employee demographics, salaries, performance, and attrition. | Pending |
+| SQL Project | MySQL | E-commerce analytics: revenue trends, repeat purchase behavior, product performance, customer segmentation using SQL queries. | Pending |
+| SQL Project | MySQL | Healthcare analytics: patient visits, no-show analysis, hospital stay trends, department revenue insights. | Pending |
+| SQL Project | MySQL | Data cleaning project – removed duplicates, fixed date formats, standardized values, ensured data quality in SQL. | Pending |
+| SQL Project | MySQL | HR analytics using SQL: attrition insights, turnover calculations, salary band analysis, promotion trends. | Pending |
+| Python EDA | Python (Pandas, Matplotlib, Seaborn) | Netflix exploratory data analysis: genres, durations, release patterns, country insights. | Pending |
+| Python EDA | Python | Retail sales analysis via Python, uncovering seasonal trends, product performance, and revenue patterns. | Pending |
+| Python Forecasting | Python (StatsModels, Pandas) | Sales forecasting time-series model using moving averages and ARIMA. | Pending |
+| Python Machine Learning | Python (Scikit-Learn) | Customer segmentation model using K-Means clustering to identify buyer groups. | Pending |
+| Power BI Dashboard | Power BI (DAX, Power Query) | Sales & Profit dashboard with drill-through, KPIs, and interactive visuals. | Pending |
+| Power BI Dashboard | Power BI | HR Attrition dashboard showing reasons for employee exit, demographics, and team-level churn. | Pending |
+| Tableau Dashboard | Tableau | Superstore dashboard with interactive maps, category breakdowns, and KPIs. | Pending |
+| Tableau Dashboard | Tableau | Customer behavior and sales demographics dashboard using visual analytics. | Pending |
+
 
 🔗 View full projects in [my portfolio repository](https://github.com/aaditya-data/Data-Analyst-Portfolio)
 
