@@ -22,7 +22,6 @@
 | Project Type | Tools Used | Description | Status |
 |--------------|------------|-------------|--------|
 | Excel Dashboard | Excel | Built an interactive Superstore Sales Dashboard with KPIs, Monthly Sales Trend, Sales by Region, Profit by Sub-Category, and Top 10 Products. | Completed |
-| Excel Dashboard | Excel | Customer churn dashboard analyzing churn causes, retention trends, and customer behavior. | Pending |
 | Excel Dashboard | Excel | HR analytics dashboard tracking employee demographics, salaries, performance, and attrition. | Pending |
 | SQL Project | MySQL | E-commerce analytics: revenue trends, repeat purchase behavior, product performance, customer segmentation using SQL queries. | Pending |
 | SQL Project | MySQL | Healthcare analytics: patient visits, no-show analysis, hospital stay trends, department revenue insights. | Pending |
