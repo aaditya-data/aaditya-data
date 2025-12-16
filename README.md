@@ -25,12 +25,10 @@
 | Excel Dashboard | Excel | HR analytics dashboard tracking employee demographics, salaries, performance, and attrition. | Completed |
 | SQL Project | MySQL | E-commerce analytics: revenue trends, repeat purchase behavior, product performance, customer segmentation using SQL queries. | Pending |
 | SQL Project | MySQL | Healthcare analytics: patient visits, no-show analysis, hospital stay trends, department revenue insights. | Pending |
-| SQL Project | MySQL | Data cleaning project – removed duplicates, fixed date formats, standardized values, ensured data quality in SQL. | Pending |
 | SQL Project | MySQL | HR analytics using SQL: attrition insights, turnover calculations, salary band analysis, promotion trends. | Pending |
 | Python EDA | Python (Pandas, Matplotlib, Seaborn) | Netflix exploratory data analysis: genres, durations, release patterns, country insights. | Pending |
 | Python EDA | Python | Retail sales analysis via Python, uncovering seasonal trends, product performance, and revenue patterns. | Pending |
 | Python Forecasting | Python (StatsModels, Pandas) | Sales forecasting time-series model using moving averages and ARIMA. | Pending |
-| Python Machine Learning | Python (Scikit-Learn) | Customer segmentation model using K-Means clustering to identify buyer groups. | Pending |
 | Power BI Dashboard | Power BI (DAX, Power Query) | Sales & Profit dashboard with drill-through, KPIs, and interactive visuals. | Pending |
 | Power BI Dashboard | Power BI | HR Attrition dashboard showing reasons for employee exit, demographics, and team-level churn. | Pending |
 | Power BI Dashboard | Power BI | A finance dashboard showing revenue, expenses, profit, and key financial KPIs using interactive visuals. | Pending |
