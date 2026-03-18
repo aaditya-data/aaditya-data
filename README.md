@@ -21,17 +21,11 @@
 
 | Project Type | Tools Used | Description | Status |
 |--------------|------------|-------------|--------|
-| Excel Dashboard | Excel | Built an interactive Superstore Sales Dashboard with KPIs, Monthly Sales Trend, Sales by Region, Profit by Sub-Category, and Top 10 Products. | Completed |
-| Excel Dashboard | Excel | HR analytics dashboard tracking employee demographics, salaries, performance, and attrition. | Completed |
-| SQL Project | MySQL | E-commerce analytics: revenue trends, repeat purchase behavior, product performance, customer segmentation using SQL queries. | Pending |
-| SQL Project | MySQL | Healthcare analytics: patient visits, no-show analysis, hospital stay trends, department revenue insights. | Pending |
-| SQL Project | MySQL | HR analytics using SQL: attrition insights, turnover calculations, salary band analysis, promotion trends. | Pending |
-| Python EDA | Python (Pandas, Matplotlib, Seaborn) | Netflix exploratory data analysis: genres, durations, release patterns, country insights. | Pending |
-| Python EDA | Python | Retail sales analysis via Python, uncovering seasonal trends, product performance, and revenue patterns. | Pending |
-| Python Forecasting | Python (StatsModels, Pandas) | Sales forecasting time-series model using moving averages and ARIMA. | Pending |
-| Power BI Dashboard | Power BI (DAX, Power Query) | Sales & Profit dashboard with drill-through, KPIs, and interactive visuals. | Pending |
-| Power BI Dashboard | Power BI | HR Attrition dashboard showing reasons for employee exit, demographics, and team-level churn. | Pending |
-| Power BI Dashboard | Power BI | A finance dashboard showing revenue, expenses, profit, and key financial KPIs using interactive visuals. | Pending |
+| 🛍️ Black Friday Analysis | SQL, Python (Pandas, NumPy), Excel | Customer segmentation, demand patterns, and campaign performance analysis | Completed |
+| 💰 Financial Performance Analysis | Excel, Power BI | Revenue analysis, cost drivers, and budget variance dashboard for business decision-making | Completed |
+| 🛡️ Risk Analytics in Insurance Domain | Python (Pandas, NumPy), SQL | Fraud detection, claim patterns, and operational risk insights | Completed |
+| 📢 Superstore Marketing Campaign Analysis | Excel, SQL | Customer behavior analysis and membership response prediction | Completed |
+| 💳 UPI Transactions Data Analysis | SQL, Python (Pandas, NumPy), Power BI | Transaction monitoring, fraud detection, and payment platform performance insights | Completed |
 
 🔗 View full projects in [my portfolio repository](https://github.com/aaditya-data/Data-Analyst-Portfolio)
 
