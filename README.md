@@ -21,11 +21,11 @@
 
 | Project Type | Tools Used | Description | Status |
 |--------------|------------|-------------|--------|
-| 🛍️ Black Friday Analysis | SQL, Python (Pandas, NumPy), Excel | Customer segmentation, demand patterns, and campaign performance analysis | Completed |
-| 💰 Financial Performance Analysis | Excel, Power BI | Revenue analysis, cost drivers, and budget variance dashboard for business decision-making | Completed |
-| 🛡️ Risk Analytics in Insurance Domain | Python (Pandas, NumPy), SQL | Fraud detection, claim patterns, and operational risk insights | Completed |
-| 📢 Superstore Marketing Campaign Analysis | Excel, SQL | Customer behavior analysis and membership response prediction | Completed |
-| 💳 UPI Transactions Data Analysis | SQL, Python (Pandas, NumPy), Power BI | Transaction monitoring, fraud detection, and payment platform performance insights | Completed |
+| 🛍️ Black Friday Analysis | Excel, SQL, Power BI | Customer segmentation, demand patterns, and campaign performance analysis | Completed |
+| 💰 Financial Performance Analysis | Excel, SQL, Power BI | Revenue analysis, cost drivers, and budget variance dashboard for business decision-making | Completed |
+| 🛡️ Risk Analytics in Insurance Domain | Excel, SQL, Python | Fraud detection, claim patterns, and operational risk insights | Completed |
+| 📢 Superstore Marketing Campaign Analysis | Excel, SQL, Power BI | Customer behavior analysis and membership response prediction | Completed |
+| 💳 UPI Transactions Data Analysis | Excel, SQL, Python | Transaction monitoring, fraud detection, and payment platform performance insights | Completed |
 
 🔗 View full projects in [my portfolio repository](https://github.com/aaditya-data/Data-Analyst-Portfolio)
 
